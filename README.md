@@ -20,7 +20,7 @@ A dynamic JSON Schema Builder built with Next.js, React, and ShadCN UI. Create c
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/json-schema-builder.git
+git clone https://github.com/aryam643/json-schema-builder.git
 cd json-schema-builder
 \`\`\`
 
